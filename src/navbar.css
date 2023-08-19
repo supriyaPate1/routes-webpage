@@ -1,0 +1,22 @@
+.Nav{
+    display: flex;
+    background-color: rgb(7, 7, 78);
+    justify-content: space-around;
+   
+  }
+  .Nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;    
+  }
+  .Nav a:hover{
+  
+    color: aqua;
+  }
+ 
+   body{
+    background-image: url("https://live.staticflickr.com/1241/1186599782_c8d9e290b6_b.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
